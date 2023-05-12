@@ -19,10 +19,10 @@ Terraform module which creates app auto scaling target/policy/schedules for dyna
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_read_label"></a> [read\_label](#module\_read\_label) | cloudposse/label/null | 0.25.0 |
+| <a name="module_read_label"></a> [read\_label](#module\_read\_label) | justtrackio/label/null | 0.26.0 |
 | <a name="module_read_schedule_index"></a> [read\_schedule\_index](#module\_read\_schedule\_index) | ./schedule-index | n/a |
 | <a name="module_this"></a> [this](#module\_this) | justtrackio/label/null | 0.26.0 |
-| <a name="module_write_label"></a> [write\_label](#module\_write\_label) | cloudposse/label/null | 0.25.0 |
+| <a name="module_write_label"></a> [write\_label](#module\_write\_label) | justtrackio/label/null | 0.26.0 |
 | <a name="module_write_schedule_index"></a> [write\_schedule\_index](#module\_write\_schedule\_index) | ./schedule-index | n/a |
 
 ## Resources
