@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/justtrackio/terraform-aws-dynamodb-autoscaler/compare/v1.0.2...v1.0.3) (2023-05-15)
+
+
+### Bug Fixes
+
+* adjust_versions_variables_outputs ([#20](https://github.com/justtrackio/terraform-aws-dynamodb-autoscaler/issues/20)) ([65163ff](https://github.com/justtrackio/terraform-aws-dynamodb-autoscaler/commit/65163fff6dae2b4a9c4c87e60ca51950ae037b1f))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
