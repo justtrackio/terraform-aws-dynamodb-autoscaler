@@ -1,6 +1,6 @@
 module "read_label" {
-  source  = "cloudposse/label/null"
-  version = "0.25.0"
+  source  = "justtrackio/label/null"
+  version = "0.26.0"
 
   attributes = ["read"]
 
@@ -8,8 +8,8 @@ module "read_label" {
 }
 
 module "write_label" {
-  source  = "cloudposse/label/null"
-  version = "0.25.0"
+  source  = "justtrackio/label/null"
+  version = "0.26.0"
 
   attributes = ["write"]
 
